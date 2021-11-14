@@ -6,6 +6,9 @@ import java.util.Locale;
 import java.util.Scanner;
 import java.io.File;
 
+/**
+ * A Restaurant, which contains Customer, Waiter, and Table objects.  Contains main().
+ */
 public class Restaurant {
     private static final int N_COURSES = 3;
 
